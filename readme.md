@@ -11,9 +11,9 @@ It has the following requirements:
 
 The Raspberry Pi can be ran as a local network web server if you run the following command on the directiory:
 
-'''
+```
 python -m CGIHTTPServer
-'''
+```
 
 This makes the Telescope fantastic for having others on the network take picture.
 
